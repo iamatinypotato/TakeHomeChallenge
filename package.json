@@ -1,0 +1,21 @@
+{
+  "name": "intercom-challenge",
+  "version": "1.0.0",
+  "description": "Intercome Interview Challenge August 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index"
+  },
+  "author": "Lisa Tumbleton",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "^8.1.1"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "joi": "^17.2.0"
+  }
+}
